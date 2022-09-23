@@ -1,7 +1,7 @@
 <template>
     <meta name="theme-color" content="black">
     <div class="header">
-        <img src="../assets/ZipLogoCropped.png" alt="Fail">
+        <img src="../assets/ZIPLogoCropped.png" alt="Fail">
 
         <div class="profileContainer">
         </div>
