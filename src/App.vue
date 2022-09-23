@@ -544,7 +544,7 @@ li img {
   margin: 0 15px 0 15px;
   padding: 0 20px 0 20px;
   width: 75vw;
-  max-width: 450px;
+  max-width: 320px;
   display: flex;
   align-items: center;
 }
