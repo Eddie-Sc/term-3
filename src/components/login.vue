@@ -2,7 +2,7 @@
   <div v-if="!showMain" id="loginContainer">
 
     <div id="logoContainer">
-      <img src="src/assets/ZIPLogoCropped.png" alt="">
+      <img src="../assets/ZIPLogoCropped.png" alt="">
     </div>
 
     <div v-if="!loginClicked" class="btnContainer" @click="loginClicked = true">
