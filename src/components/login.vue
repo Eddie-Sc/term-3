@@ -106,7 +106,7 @@ color: #fff;
   padding: 8px 50px 8px 50px;
   border-radius: 5px;
   margin-bottom: 15px;
-  width: 60px;
+  width: 80px;
 }
 .loginInput {
   border: rgba(25, 134, 163, 1) solid 2px;
