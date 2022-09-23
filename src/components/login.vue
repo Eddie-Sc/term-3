@@ -71,7 +71,7 @@ color: #fff;
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-image: url(src/assets/loginBgImg.png);
+  background-image: url(../assets/loginBgImg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: bottom;
