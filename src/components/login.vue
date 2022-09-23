@@ -103,10 +103,10 @@ color: #fff;
 .loginBtn {
   color: white;
   border: none;
-  padding: 8px 50px 8px 50px;
+  padding: 8px 8px ;
   border-radius: 5px;
   margin-bottom: 15px;
-  width: 80px;
+  width: 150px;
 }
 .loginInput {
   border: rgba(25, 134, 163, 1) solid 2px;
