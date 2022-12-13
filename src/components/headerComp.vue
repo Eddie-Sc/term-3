@@ -43,7 +43,7 @@
         
         .header img {
             width: 7rem;
-            padding: 5px 0vw 5px 28px;
+            padding: 0px 0vw 8px 28px;
         }
     }
 </style>
