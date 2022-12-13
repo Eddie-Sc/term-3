@@ -42,7 +42,7 @@
     @media screen and (max-width: 900px) {
         
         .header img {
-            width: 10rem;
+            width: 7rem;
             padding: 5px 0vw 5px 28px;
         }
     }

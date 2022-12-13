@@ -629,7 +629,7 @@ li img {
   .formBtn {
     width: 40%;
   }
-/* Mobil view only changes start here */
+/* Mobil view only changes end here */
 
 }
 
